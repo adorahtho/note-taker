@@ -25,9 +25,6 @@ https://github.com/coding-boot-camp/miniature-eureka.git
 ## Usage
 Enter, "npm start" into the terminal to start the server. Enter, "ctrl + c" to turn off the server.
 
-## Link to Walkthrough Video
-
-
 ## Author & Acknowledgements
 * https://github.com/thoak90codes
 * UW Coding Bootcamp
