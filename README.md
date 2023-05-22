@@ -26,7 +26,7 @@ https://github.com/coding-boot-camp/miniature-eureka.git
 Enter, "npm start" into the terminal to start the server. Enter, "ctrl + c" to turn off the server.
 
 ## Deployed Application Link
-https://git.heroku.com/murmuring-basin-97362.git 
+https://murmuring-basin-97362.herokuapp.com/
 
 ## Author & Acknowledgements
 * https://github.com/thoak90codes
